@@ -1,0 +1,7 @@
+{
+  "name": "Remix: IntervAI - AI Interview Simulator",
+  "description": "An AI-powered interview simulator that evaluates your answers, communication style, and confidence to help you ace your next job interview.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
